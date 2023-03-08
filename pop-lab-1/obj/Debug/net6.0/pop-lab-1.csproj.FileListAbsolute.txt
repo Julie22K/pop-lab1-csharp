@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\bin\Debug\net6.0\pop-lab-1.exe
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\bin\Debug\net6.0\pop-lab-1.deps.json
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\bin\Debug\net6.0\pop-lab-1.runtimeconfig.json
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\bin\Debug\net6.0\pop-lab-1.dll
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\bin\Debug\net6.0\pop-lab-1.pdb
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.dll
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\refint\pop-lab-1.dll
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.pdb
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\pop-lab-1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\pop-lab-1\pop-lab-1\obj\Debug\net6.0\ref\pop-lab-1.dll
