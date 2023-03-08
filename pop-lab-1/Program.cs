@@ -46,7 +46,7 @@ namespace threaddemo
                 numeric++;
                 sum += number;
             } while (timers.Contains(Convert.ToInt32(time)));
-            Console.WriteLine($"Thread id:{Thread.CurrentThread.ManagedThreadId}\t sum:{sum}\t numeric:{numeric}\ttime:{time} sec");
+            Console.WriteLine($"Thread id:{Thread.CurrentThread.ManagedThreadId}\t sum:{sum}\t numeric:{numeric}");
         }
 
         /*private bool canStop = false;
